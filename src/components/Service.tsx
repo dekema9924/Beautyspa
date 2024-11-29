@@ -1,4 +1,3 @@
-import React from 'react'
 import { CiStar } from "react-icons/ci";
 import { CiLocationOn } from "react-icons/ci";
 import objArry from '../Helpers/ServiceData';
