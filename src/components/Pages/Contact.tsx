@@ -1,4 +1,3 @@
-import React from 'react'
 import { IoHomeOutline } from "react-icons/io5";
 import { CiMail } from "react-icons/ci";
 import { MdOutlinePhone } from "react-icons/md";

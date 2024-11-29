@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import { FaQuoteLeft } from "react-icons/fa";
 import { FaQuoteRight } from "react-icons/fa";
-import { MdKeyboardArrowLeft, MdOutlineKeyboardArrowLeft } from "react-icons/md";
+import { MdKeyboardArrowLeft } from "react-icons/md";
 import { MdKeyboardArrowRight } from "react-icons/md";
 import TestimonialData from '../Helpers/TestimaonialData';
 

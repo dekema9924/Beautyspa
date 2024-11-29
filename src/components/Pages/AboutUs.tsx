@@ -1,5 +1,4 @@
 
-import React from 'react'
 import ClipboardIcon from '../../assets/Icons/clipboard.png'
 import ServiceIcon from '../../assets/Icons/premium-service.png'
 import TreatmentIcon from '../../assets/Icons/beauty-treatment.png'

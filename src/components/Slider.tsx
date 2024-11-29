@@ -1,4 +1,3 @@
-import React from 'react'
 import barber from '../assets/Icons/barber.png'
 import footMassage from '../assets/Icons/foot-massage.png'
 import makeup from '../assets/Icons/makeup.png'
