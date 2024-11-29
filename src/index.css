@@ -2,17 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.slide {
-    animation: scroll 7s infinite both linear;
-}
-
-@keyframes scroll {
-    from{
-        transform: translateX(-100px);
-    }
-
-    to{
-        transform: translateX(500px);
-    }
-  
-}
